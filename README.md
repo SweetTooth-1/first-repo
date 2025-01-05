@@ -1,3 +1,3 @@
 # first-repo
 This is my first Git repository.
-Auhtor - SweetTooth-1
+Author - SweetTooth-1
